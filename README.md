@@ -8,7 +8,7 @@ I'm Hosam Shaban a Flutter Developer.
 <!-- TODO: Add last video link -->
 
 - 🎓 I’m currently studying Mobile Computing at Islamic University of Gaza.
-- 🤔 I’m interested in Flutter development.
+- 🤔 I’m interested in Mobile Apps development.
 - 📫 How to reach me: 97hosams@gmail.com.
 
 #### Top Technologies
