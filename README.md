@@ -1,4 +1,4 @@
-## Hi I'm Hosam <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+## Hi I'm Hosam Shaban <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 <h3 align="left">Mobile Applications Developer</h3>
 
@@ -11,33 +11,31 @@
 - 🤔 I’m interested in Mobile Apps development.
 - 📫 How to reach me: 97hosams@gmail.com.
 
-#### Top Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
-
-![Flutter Badge](https://img.shields.io/badge/-Flutter-61DBFB?style=for-the-badge&labelColor=black&logo=flutter&logoColor=61DBFB)
-![Android Badge](https://img.shields.io/badge/-Android-3C873A?style=for-the-badge&labelColor=white&logo=android&logoColor=3C873A)
+<br/>
 
 
-email: 97hosams@gmail.com
+## Activity & Statistics:
+ ### Streak Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HosamShaban&theme=react)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
-
-I am a programmer mobile applications using Android, and I have apps from Android, Then I  programming a flutter frame and started learning it. I have many works from it, and now I am still developing myself in it in order to enter the labor market with an excellent exhibition of works.
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-Flutter      15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-Android      1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-```
-<!--END_SECTION:waka-->
+### Activity
+<!--
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anawajha&show_icons=true&theme=react)
+-->
+![Asad's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HosamShaban&show_icons=true&theme=react&include_all_commits=true&count_private=true)
 
 
-</details>
+### Languages
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HosamShaban&layout=compact&theme=react)
+</div>
+
+## Languages & Tools:
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,cs,firebase,git,github,gitlab,kotlin,laravel,nginx,php,postman,powershell,blender,bash,androidstudio,bootstrap,dart,docker,figma,flutter,jquery,mysql,sqlite,java,xd,unity,swift)](https://skills.thijs.gg)
+</div>
+
+## Connect with me:
+<p align="center">
+	<a target="_blank" href="mailto:97hosams@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" width='50px' alt="Gmail"/></a>
+	<a target="_blank" href="https://www.linkedin.com/in/hosam-shaban/"><img src="https://skills.thijs.gg/icons?i=linkedin" alt="LinkedIn"/></a>
+	<a target="_blank" href="https://wa.me/+970567999242"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/WhatsApp.png" width='50px' alt="Whatsapp"/></a>
+</div>
