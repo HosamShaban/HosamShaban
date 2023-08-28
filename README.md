@@ -5,7 +5,7 @@
 <!-- TODO: Add last video link -->
 
 - 🎓 I am a graduate of mobile computing from the Islamic University of Gaza.
-- 🤔 I’m interested in Mobile Apps development.
+- 💻 I’m currently working on Flutter.
 - 📫 How to reach me: 97hosams@gmail.com.
 
 <br/>
