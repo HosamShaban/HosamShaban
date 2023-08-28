@@ -30,6 +30,10 @@
 [![My Skills](https://skills.thijs.gg/icons?i=firebase,git,github,kotlin,postman,androidstudio,figma,dart,flutter,mysql,sqlite,java,xd,swift)](https://skills.thijs.gg)
 </div>
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HosamShaban&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=vision-friendly-dark&column=6)](https://github.com/HosamShaban)
+
 ## Connect with me:
 <p align="center">
 	<a target="_blank" href="mailto:97hosams@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" width='50px' alt="Gmail"/></a>
