@@ -2,9 +2,6 @@
 
 <h3 align="left">Mobile Applications Developer</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-hosam-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hosam-shaban-b5b1061aa/)
- [![Mail Badge](https://img.shields.io/badge/-hosam-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:97hosams@gmail.com)
-
 <!-- TODO: Add last video link -->
 
 - 🎓 I am a graduate of mobile computing from the Islamic University of Gaza.
