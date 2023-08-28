@@ -30,7 +30,7 @@
 </div>
 
 ## Languages & Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,cs,firebase,git,github,gitlab,kotlin,laravel,nginx,php,postman,powershell,blender,bash,androidstudio,bootstrap,dart,docker,figma,flutter,jquery,mysql,sqlite,java,xd,unity,swift)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=firebase,git,github,gitlab,kotlin,postman,bash,androidstudio,bootstrap,figma,dart,flutter,mysql,sqlite,java,xd,swift)](https://skills.thijs.gg)
 </div>
 
 ## Connect with me:
