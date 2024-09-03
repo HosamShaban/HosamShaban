@@ -34,6 +34,6 @@
 ## Connect with me:
 <p align="center">
 	<a target="_blank" href="mailto:97hosams@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" width='50px' alt="Gmail"/></a>
-	<a target="_blank" href="https://www.linkedin.com/in/hosam-shaban/"><img src="https://skills.thijs.gg/icons?i=linkedin" alt="LinkedIn"/></a>
+	<a target="_blank" href="https://www.linkedin.com/in/hosam-shaban/"><img src="[https://skills.thijs.gg/icons?i=linkedin](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png)" alt="LinkedIn"/></a>
 	<a target="_blank" href="https://wa.me/+970567999242"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/WhatsApp.png" width='50px' alt="Whatsapp"/></a>
 </div>
