@@ -27,7 +27,7 @@
 </div>
 
 ## Languages & Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=firebase,git,github,kotlin,postman,androidstudio,figma,dart,flutter,mysql,sqlite,java,xd,swift)]
+[![My Skills](https://skills.thijs.gg/icons?i=firebase,git,github,kotlin,postman,androidstudio,figma,dart,flutter,mysql,sqlite,java,xd,swift)](https://skills.thijs.gg)
 </div>
 
 
