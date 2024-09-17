@@ -26,10 +26,6 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HosamShaban&layout=compact&theme=react)
 </div>
 
-## Languages & Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=firebase,git,github,kotlin,postman,androidstudio,figma,dart,flutter,mysql,sqlite,java,xd,swift)](https://skills.thijs.gg)
-</div>
-
 
 ## Connect with me:
 <p align="center">
