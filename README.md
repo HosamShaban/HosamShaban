@@ -10,9 +10,9 @@
 
 <br/>
 
-
 ## Activity & Statistics:
- ### Streak Stats:
+
+### Streak Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HosamShaban)](https://git.io/streak-stats)
 
 ### Activity
@@ -21,15 +21,13 @@
 -->
 ![Asad's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HosamShaban&show_icons=true&theme=react&include_all_commits=true&count_private=true)
 
-
 ### Languages
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HosamShaban&layout=compact&theme=react)
 </div>
 
-
 ## Connect with me:
 <p align="center">
-	<a target="_blank" href="mailto:97hosams@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" width='50px' alt="Gmail"/></a>
-	<a target="_blank" href="https://www.linkedin.com/in/hosam-shaban/"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="LinkedIn"/></a>
-	<a target="_blank" href="https://wa.me/+970567999242"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/WhatsApp.png" width='50px' alt="Whatsapp"/></a>
+    <a target="_blank" href="mailto:97hosams@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" width='50px' alt="Gmail"/></a>
+    <a target="_blank" href="https://www.linkedin.com/in/hosam-shaban/"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="LinkedIn"/></a>
+    <a target="_blank" href="https://wa.me/+970567999242"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/WhatsApp.png" width='50px' alt="Whatsapp"/></a>
 </div>
