@@ -13,8 +13,7 @@
 ## Activity & Statistics:
 
 ### Streak Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HosamShaban)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HosamShaban)](https://git.io/streak-stats)<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
 ### Activity
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anawajha&show_icons=true&theme=react)
